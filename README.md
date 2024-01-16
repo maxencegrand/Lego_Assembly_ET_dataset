@@ -1,1 +1,1 @@
-# Lego_Assembly_ET_dataset
+# Lego Assembly ET dataset
